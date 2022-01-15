@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**21goldy/21goldy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on App Development
+- ✅ I am familiar with Python | HTML5 | CSS | Dart | Fluttter 
+- ⌨️ I’m a SEO content writer. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Achievements: 
+
+- 🏅 Top 25 submissions in DevFest 2.0 hackathon 2021 organized by DevSoc BITS Goa
+- ♟️ 5 times state level chess player | 🥇 Kamal Yuva Khel Mahotsav 2022
+- 🏏 2 times state level girls cricket player as a Captain
+
+Contact me:
+
+- 📫 Email: 21goldygour@gmail.com
+- 🖥️ LinkedIn: Goldy Gour | https://www.linkedin.com/in/goldy-gour-949251208/
+- ♟️ Lichess: be-lie-ver | https://lichess.org/@/be-lie-ver
+
+

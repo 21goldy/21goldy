@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on App Development
-- ✅ I am familiar with Python | HTML5 | CSS | Dart | Fluttter 
+- ✅ I’m familiar with Python | HTML5 | CSS | Dart | Fluttter 
 - 🪟 Frameworks I know Django | Flask | Bootstrap
 - ⌨️ I’m a SEO content writer
 

@@ -14,11 +14,6 @@ Achievements:
 - ♟️ 5 times state level chess player | 🥇 Kamal Yuva Khel Mahotsav 2022
 - 🏏 2 times state level girls cricket player as a Captain
 
-I like:
-- 🎤 Singing | I do it for fun 😁
-- 🩰 Dancing | Only to express 😂
-- 🛵 Driving 
-
 Contact me:
 
 - 📫 Email: 21goldygour@gmail.com

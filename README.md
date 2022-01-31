@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on App Development
 - ✅ I’m familiar with Python | HTML5 | CSS | Dart | Fluttter 
+- 🃏 I have basic knowledge of Java | C++
 - 🪟 Frameworks I know Django | Flask | Bootstrap
 - ⌨️ I’m a SEO content writer
 

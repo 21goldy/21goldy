@@ -4,7 +4,7 @@
 - ✅ I’m familiar with Python | HTML5 | CSS | Dart | Fluttter 
 - 🃏 I have intermediate knowledge of Java | C++ | Kotlin | JS
 - 🪟 Frameworks I know Django | Flask | Bootstrap
-- ⌨️ I’m a SEO content writer
+- ⌨️ I’m a SEO content writer (0.50 PPW)
 
 My blogging website:
 - 🖥️ https://goldy-blog-website.herokuapp.com/

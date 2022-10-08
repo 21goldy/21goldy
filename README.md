@@ -1,19 +1,30 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on App Development
-- ✅ I’m familiar with Python | HTML5 | CSS | Dart | Fluttter 
-- 🃏 I have intermediate knowledge of Java | C++ | Kotlin | JS
-- 🪟 Frameworks I know Django | Flask | Bootstrap
-- ⌨️ I’m a SEO content writer (0.50 PPW)
+- 💻 I’m a Full Stack Developer and a Flutter Developer
+- ✅ Familiar with Python | Java | Kotlin | JS
+- ⌨️ SEO content writer (0.50 PPW)
+- 🔐 Cyber Security Student
+
+Tools and Technologies:
+
+- 🔥 Backend: Firebase, Cloud Firestore, Cloud Storage, 
+              Mongo DB, SQLAlchemy, WTForms
+- 🐥 Frontend: HTML5, CSS, JS, Bootstrap
+- ✅ SEO Tools: Adthrive, Sufer SEO, Outranking
+- 🪨 OS: Windows, Kali Linux
+- 🪟 Frameworks: Django, Flask
 
 My blogging website:
-- 🖥️ https://goldy-blog-website.herokuapp.com/
+
+- 🖥️ https://goldy-blog-website.herokuapp.com/ 
+     [This is a sample blog website.]
 
 Achievements: 
 
 - 🏅 Top 25 submissions in DevFest 2.0 hackathon 2021 organized by DevSoc BITS Goa
 - ♟️ 5 times state level chess player | 🥇 Kamal Yuva Khel Mahotsav 2022
 - 🏏 2 times state level girls cricket player as a Captain
+- 🌍 30 Days of Google Cloud
 
 Contact me:
 

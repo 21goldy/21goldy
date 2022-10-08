@@ -7,7 +7,7 @@
 
 Tools and Technologies:
 
-- 🔥 Backend: Firebase, Cloud Firestore, Cloud Storage, 
+- 🔥 Backend: Python, Firebase, Cloud Firestore, Cloud Storage, 
               Mongo DB, SQLAlchemy, WTForms
 - 🐥 Frontend: HTML5, CSS, JS, Bootstrap
 - ✅ SEO Tools: Adthrive, Sufer SEO, Outranking

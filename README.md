@@ -14,11 +14,6 @@ Tools and Technologies:
 - 🪨 OS: Windows, Kali Linux
 - 🪟 Frameworks: Django, Flask
 
-My blogging website:
-
-- 🖥️ https://goldy-blog-website.herokuapp.com/ 
-     [This is a sample blog website.]
-
 Achievements: 
 
 - 🏅 Top 25 submissions in DevFest 2.0 hackathon 2021 organized by DevSoc BITS Goa

@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-- 💻 I’m a Full Stack Flutter & Web Developer
+- 💻 I’m a Freelance Flutter Developer
 - ✅ Familiar with Python | Java | Kotlin | JS
 - ⌨️ SEO content writer (0.50 PPW)
 - 🔐 Cyber Security Student
+
+I can develop cool websites too!
 
 Tools and Technologies:
 

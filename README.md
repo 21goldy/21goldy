@@ -19,7 +19,7 @@ Tools and Technologies:
 Achievements: 
 
 - 🏅 Top 25 submissions in DevFest 2.0 hackathon 2021 organized by DevSoc BITS Goa
-- ♟️ 5 times state level chess player | 🥇 Kamal Yuva Khel Mahotsav 2022
+- ♟️ 5 times state level chess player | 🥇 Kamal Yuva Khel Mahotsav 2022, 23
 - 🏏 2 times state level girls cricket player as a Captain
 - 🌍 30 Days of Google Cloud
 

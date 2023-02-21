@@ -27,7 +27,6 @@ Contact me:
 
 - 📫 Email: 21goldygour@gmail.com
 - 👽 LinkedIn: Goldy Gour | https://www.linkedin.com/in/goldy-gour-949251208/
-- ♟️ Lichess: be-lie-ver | https://lichess.org/@/be-lie-ver
 - 🗂️ Replit: https://replit.com/@WeirdBox
 
 

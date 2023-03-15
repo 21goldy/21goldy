@@ -2,7 +2,7 @@
 
 - 💻 I’m a Freelance Flutter Developer
 - ✅ Familiar with Python | Java | Kotlin | JS
-- ⌨️ SEO content writer (0.50 PPW)
+- ⌨️ SEO content writer (0.70 PPW)
 - 🔐 Cyber Security Student
 
 I can develop cool websites too!

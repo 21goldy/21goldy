@@ -15,7 +15,7 @@ Tools and Technologies:
 - ⚙️ SEO Tools: Adthrive, Sufer SEO, Outranking
 - 🪨 OS: Windows, Kali Linux
 - 🎃 Languages: Python, Java, Dart, JS, Kotlin 
-- 🪟 Frameworks: Django, Flask, FLutter
+- 🪟 Frameworks: Django, Flask, Flutter
 
 Achievements: 
 

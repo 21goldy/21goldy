@@ -14,7 +14,8 @@ Tools and Technologies:
 - 🐥 Frontend: HTML5, CSS, SCSS, JS, Bootstrap, Neomorphic Design, Velocity_x
 - ⚙️ SEO Tools: Adthrive, Sufer SEO, Outranking
 - 🪨 OS: Windows, Kali Linux
-- 🪟 Frameworks: Django, Flask
+- 🎃 Languages: Python, Java, Dart, JS, Kotlin 
+- 🪟 Frameworks: Django, Flask, FLutter
 
 Achievements: 
 

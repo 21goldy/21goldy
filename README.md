@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-- 💻 I’m a Freelance Flutter Developer
+- 💻 Senior Technical Advisor at Suit Swap
+- ❤️ Freelance Flutter Developer 
 - ✅ Familiar with Python | Java | Kotlin | JS
 - ⌨️ SEO content writer (0.70 PPW)
 - 🔐 Cyber Security Student
 
-I can develop cool websites too!
+I can develop cool websites too! 🙂
 
 Tools and Technologies:
 

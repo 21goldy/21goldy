@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💻 Senior Technical Advisor at Suit Swap
+- 💻 Senior Technical Manager at Suit Swap
 - ❤️ Freelance Flutter Developer 
 - ✅ Familiar with Python | Java | Kotlin | JS
 - ⌨️ SEO content writer (0.70 PPW)

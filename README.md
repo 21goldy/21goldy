@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 💻 Senior Technical Manager at Royal Silks
-- ❤️ Freelance Flutter Developer 
-- ✅ Familiar with Python | Java | Kotlin | JS
+- 👩🏻‍💻 Flutter Developer | Python Developer | Wordpress Developer 
+- ✅ Familiar with C++ | Java | Kotlin | JS
 - ⌨️ SEO content writer (0.70 PPW)
 - 🔐 Cyber Security Student
 

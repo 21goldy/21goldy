@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 - 💻 Technical Manager at Royal Silks LLC
-- 👩🏻‍💻 Flutter Developer | Python Developer | Wordpress Developer 
+- 👩🏻‍💻 Flutter Developer | Python Developer | Web Developer
 - ✅ Familiar with C++ | Java | Kotlin | JS
 - ⌨️ SEO content writer (0.90 PPW)
 - 🔐 Cyber Security Student
+- 💲 Learning Blockchain
 
 I can develop cool websites too! 🙂
 

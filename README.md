@@ -5,14 +5,13 @@
 - ✅ Familiar with C++ | Java | Kotlin | JS
 - ⌨️ SEO content writer (0.90 PPW)
 - 🔐 Cyber Security Student
-- 💲 Learning Blockchain
+- 💲 Learning Go | Blockchain 
 
 I can develop cool websites too! 🙂
 
 Tools and Technologies:
 
-- 🔥 Backend: Python, Firebase, Cloud Firestore, Cloud Storage, 
-              Mongo DB, SQLAlchemy, WTForms
+- 🔥 Backend: Python, Firebase, Supabase, Mongo DB, SQLAlchemy, WTForms
 - 🐥 Frontend: HTML5, CSS, SCSS, JS, Bootstrap, Neumorphic Design, Velocity_x
 - ⚙️ SEO Tools: Adthrive, Sufer SEO, Outranking
 - 🪨 OS: Windows, Kali Linux

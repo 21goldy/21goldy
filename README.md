@@ -201,7 +201,7 @@ I enjoy learning how applications work beyond the frontend — including the **s
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=21goldy&show_icons=true&theme=default&hide_border=true" alt="Goldy Gour's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=21goldy&show_icons=true&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
